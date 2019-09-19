@@ -1,0 +1,7 @@
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Arrays\bin\Debug\ClassProject_Deliverable3_Arrays.exe.config
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Arrays\bin\Debug\ClassProject_Deliverable3_Arrays.exe
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Arrays\bin\Debug\ClassProject_Deliverable3_Arrays.pdb
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Arrays\obj\Debug\ClassProject_Deliverable3_Arrays.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Arrays\obj\Debug\ClassProject_Deliverable3_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Arrays\obj\Debug\ClassProject_Deliverable3_Arrays.exe
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Arrays\obj\Debug\ClassProject_Deliverable3_Arrays.pdb
